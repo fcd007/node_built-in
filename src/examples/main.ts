@@ -1,4 +1,4 @@
-const fatorial = require('./fatorial')
+import fatorial from '../function/fatorial'
 
 const num = parseInt(process.argv[2]);
 

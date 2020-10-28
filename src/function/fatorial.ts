@@ -5,4 +5,4 @@ function fatorial(num) {
     return num * fatorial(num -1);
 };
 
-module.exports = fatorial;
+export default fatorial;
